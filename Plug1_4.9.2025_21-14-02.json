@@ -1,0 +1,25 @@
+{
+  "vendor": "Tuya",
+  "bDetailed": "0",
+  "name": "Full Device Name Here",
+  "model": "enter short model name here",
+  "chip": "ECR6600",
+  "board": "TODO",
+  "flags": "1024",
+  "keywords": [
+    "TODO",
+    "TODO",
+    "TODO"
+  ],
+  "pins": {
+    "14": "BL0937CF;0",
+    "15": "BL0937SEL;0",
+    "20": "BL0937CF1;0",
+    "22": "WifiLED;0",
+    "24": "Btn;0",
+    "25": "PWM_ScriptOnly;1"
+  },
+  "command": "",
+  "image": "https://obrazki.elektroda.pl/YOUR_IMAGE.jpg",
+  "wiki": "https://www.elektroda.com/rtvforum/topic_YOUR_TOPIC.html"
+}
